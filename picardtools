@@ -1,0 +1,4 @@
+#!/bin/bash
+#/common/bermanblab/java/jdk1.8.0_31/bin/java -Xmx12G -jar /common/bermanblab/build/picard-tools-1.136/picard.jar $@
+#/home/genomics/genomics/anaconda2/bin/java -Xmx24G -jar /home/genomics/genomics/apps/picard.jar $@
+/common/genomics-core/anaconda2/bin/java -Xmx24G -jar /common/genomics-core/apps/picard.jar $@
